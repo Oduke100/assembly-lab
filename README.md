@@ -1,5 +1,3 @@
-# PROJ DESCRIPTION
-
 This is my little world where I am going to learn assembly for the x86_64(I don't know the first thing about that number and or how it is important but that's the
 CPU architecture I have and so I am using it)
 
