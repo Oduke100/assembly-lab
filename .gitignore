@@ -1,0 +1,10 @@
+###  MULTIUSE .GITIGNORE
+since assembly has build files and src files, we build into a build folder and ignore it 
+
+## Folders
+bin/
+output/
+
+## Files
+*.o
+*.obj
