@@ -4,6 +4,7 @@ since assembly has build files and src files, we build into a build folder and i
 ## Folders
 bin/
 output/
+docs/
 
 ## Files
 *.o

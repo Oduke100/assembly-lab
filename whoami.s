@@ -56,6 +56,6 @@ _purpose:
 	syscall
 	
 	mov $0, %rdi
-	mov $60, %rax
+	mov $60, %rax 		# This is the exit code incase you ever wonder
 
 	syscall
